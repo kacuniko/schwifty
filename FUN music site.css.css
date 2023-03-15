@@ -1,0 +1,173 @@
+h1{
+    
+    color: goldenrod;
+    padding: 10px;
+    border-radius: 15px;
+    background-color: rgb(71, 255, 95);
+    width: fit-content;
+    margin-left: 500px;
+}
+body{
+    background-color: rgb(0, 230, 218);
+    
+    
+}
+.start{
+    margin-left: 20px;
+
+}
+#starter{
+    background-color: cornflowerblue;
+    padding: 10px;
+    bottom: 10px;
+    position: relative;
+}
+#more{
+    margin-left: 20px;
+    background-color: cornflowerblue;
+    font-size: 17px;
+    border: 0;
+}
+#welcome{
+    text-align: center;
+    
+    color: rgb(255, 47, 99);
+}
+h2{
+    margin-left: 630px;
+    width: fit-content;
+    background-color: indigo;
+    color: palegreen;
+    padding: 10px;
+    border-radius: 20px;
+    margin-top: 100px;
+    
+}
+.flowerboy{
+    width: 200px;
+}
+#introducion{
+    left: 20px;
+    top: 200px;
+    background-color: rgb(238, 255, 0);
+    width: 200px;
+    height: 360px;
+    position: relative;
+}
+.genre{
+    padding: 5px;
+    font-size: 21px;
+}
+.naceri{
+    top: 40px;
+    position: relative;
+    padding-left: 10px;
+}
+#introducionldr{
+    left: 315px;
+    bottom: 165px;
+    background-color: rgb(95, 0, 0);
+    width: 200px;
+    height: 360px;
+    position: relative;
+}
+#introducionkiss{
+    left: 635px;
+    bottom: 520px;
+    background-color: rgb(40, 0, 116);
+    width: 230px;
+    height: 360px;
+    position: relative;
+}
+#introducionweeknd{
+    left: 970px;
+    bottom: 880px;
+    background-color: rgb(182, 2, 137);
+    width: 240px;
+    height: 360px;
+    position: relative;
+}
+#introducionimpala{
+    left: 1295px;
+    bottom: 1235px;
+    background-color: rgb(0, 221, 37);
+    width: 250px;
+    height: 360px;
+    position: relative;
+}
+#div1{
+    background-color: rgb(238, 232, 170);
+    width: 1565px;
+    height: 700px;
+    margin-top: 150px;
+}
+#gang{
+    margin-left:  500px;
+    margin-top: 100px;
+}
+#favartists{
+    top: 50px;
+    left: 600px;
+    background-color: rgb(255, 0, 140);
+    border-radius: 20px;
+    padding: 30px;
+    font-size: 20px;
+    position: relative;
+    color:darkseagreen;
+    
+}
+.horizonti{
+    width: 200px;
+    height: 30px;
+    text-align: center;
+}
+.cxrilshi{
+    text-align: center;
+}
+#favalbums{
+    position: relative;
+    background-color: midnightblue;
+    border-radius: 15px;
+    padding: 20px;
+    left: 720px;
+    top: 20px;
+}
+#albums{
+    margin-left: 00px;
+    background-color: rgb(179, 0, 0);
+    margin-top: 100px;
+    width: 1600px;
+    height: 750px;
+}
+#graduation{
+    width: 300px;
+    position: relative;
+    top: 60px;
+    left: 675px;
+}
+#naceri2{
+    position: relative;
+    top: 90px;
+    left: 350px;
+    font-size: 40px;
+}
+#albomissaxelebi{
+    position: relative;
+    left: 80px;
+    top: 120px;
+    color: rgb(77, 2, 77);
+    font-size: 30px;
+}
+#ul1{
+    margin-top: 190px;
+    font-size: 25px;
+    color: gold;
+    margin-left: 300px;
+}
+#ul2{
+    font-size: 25px;
+    color: gold;
+    left: 900px;
+    bottom: 220px;
+    position: relative;
+}
